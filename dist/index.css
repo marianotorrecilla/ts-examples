@@ -1,0 +1,15 @@
+.div-back {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.title {
+    color: rgb(151, 253, 151);
+    font-family: 'Antonio', sans-serif;
+}
