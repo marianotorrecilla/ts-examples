@@ -29,7 +29,7 @@ In the project directory, you can run:
 
 ### `tsc --watch`
 
-Later open the project in the browser, double-click the index.html file in the dist folder
+Later double-click the index.html file in the dist folder to open de proyect on the browser
 
 Finally, open the browser terminal to see the console.log's
 
